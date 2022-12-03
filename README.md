@@ -14,7 +14,7 @@ spektral-1.2.0
 Every required library is downloaded and imported in the code file
 
 ## Dataset
-The two benchmark datasets Yelp and Elliptic for evaluation. The datasets are provided in the ```/dataset.``` The spektral graph-data object is created using the Adjacency Matrix, Feature matrix, the Lables and the boolean arrays of Test, Train and Validation masks from the preprocessed datasets available for PyTorch implementation).
+The two benchmark datasets Yelp and Elliptic for evaluation. The datasets are provided in the ```/dataset.``` The spektral graph-data object is created using the Adjacency Matrix, Feature matrix, the Lables and the boolean arrays of Test, Train and Validation masks from the preprocessed datasets available for PyTorch implementation). Please mount these datasets to Google Drive and unzip them. 
 
 ## Run the model.
 To run this project, go to the ```Amnet.ipynb``` file, which is a Google Colab notebook. Give the path of the dataset( Either Yelp of Elliptic) and run the file with required settings.
